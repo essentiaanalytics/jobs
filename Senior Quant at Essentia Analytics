@@ -1,0 +1,74 @@
++---
++title: Senior Quant
++company: Essentia Analytics
++location: London, UK
++contract: permanent
++contact:
++    name: Jenny Acosta
++    email: jenny.acosta@essentia-analytics.com
++created: !!timestamp '2015-05-19'
++tags:
++  - London
++  - python
++  - Finance
++  - Research
++  - Engineering
++---
++DESCRIPTION
++
++### About ESSENTIA ANALYTICS
++
++ ABOUT ESSENTIA ANALYTICS
++
++ At Essentia, we’re a friendly bunch of ex-fund managers, neuroscientists, quants and developers who are breaking new ground in the application of behavioural science to financial markets.
++
++ We enable our clients - investment professionals, portfolio managers and fund managers -  to capture rich data about their behaviour and thought-process, which we turn into compelling, actionable visualisations and insights. They then use this information to make better investment decisions, and ultimately, improve their fund performance. We are just under 2 years old, but have already made great headway in our market, won numerous awards and been featured widely in the press.
++
++ You can get a feel of what it is like working here by taking a look at https://www.youtube.com/watch?v=9M6CtGMM-6M  we all genuinely love it! 
++
++ About you
++
++We are are looking for a quantitative analyst/financial engineer with solid financial experience to carry out the following responsibilities:
++
++ - Research and implement novel performance measures and trading style characterisations
++ - Build internal accounting and P&L attribution modules
++ - Design and implement scenario and perturbation analysis techniques
++ - Create intuitive visualisations of complex data.
++ - Take responsibility for end-to-end implementation of new features working closely with our development team
++ - Represent research team both internally and externally
++ - Be the go-to-person for financial engineering domain knowledge
++
++ We are looking for someone who is:
++
++ - Able to see the big picture while still being detail oriented
++ - Able to communicate and clearly formulate complicated concepts
++ - Thorough knowledge of financial mathematics
++ - Interested in working in a dynamic and team-oriented start-up environment
++ - Comfortable with an iterative solution development process
++
++### REQUIRED SKILLS
++
++ To be eligible, the candidate MUST:
++
++ Have 5+ years of experience in a financial institution working with some or all of the following:
++ - Pricing models
++ - Risk models and scenario analysis
++ - P&L attribution models
++ - Portfolio construction techniques
++ - Data mining of transaction data
++ - Have a solid understanding of financial instruments pricing and mechanics, notably equities, options and fixed income
++ - Have hands-on programming experience in Python. Pandas is a big plus.
++ - Have experience with processing real world noisy data sets (e.g. sensor data, stock prices, live data streams, internal logs) and data validation
++ - Have a solid understanding of fundamental statistics and linear algebra
++ - Be curious, with a voracious appetite to learn
++ - Be a self starter and a team player
++
++###The ideal candidate will:
++
++ - Have 7+ years of experience in a financial environment
++ - Team leadership experience
++ - Be proficient in Python and Pandas
++ - Be familiar with or experienced in machine learning techniques or complex data visualisations
++ - Have experience using a test-driven development approach
++ - You must have the right to work in the UK. We do not accept applications from agencies, aplicants only.
++
